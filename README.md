@@ -1,16 +1,15 @@
-### Hi there 👋
-
 <!--
 **kefan-zheng/kefan-zheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+## Hey! Nice to meet you.👋
+I'm Zheng Kefan,a student from Shanghai,China.
+![visitors](https://visitor-badge.glitch.me/badge?page_id=kefan-zheng)
+- 🌱 I’m currently learning software engineering in SSE,Tongji University
+- 📫 How to reach me: 1950072@tongji.edu.cn
+- 😄 Pronouns: he
+- ⚡ Hobbies: football⚽/billiard🎱/movies🎬/music🎧/calligraphy🖌
+- 🛠  C/C++/JavaScript/Python/SQL</br>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kefan-zheng&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
+--------------------------------------------------------------------
+### Github stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kefan-zheng&show_icons=true&theme=buefy&hide=prs,issues)
