@@ -2,7 +2,7 @@
 **kefan-zheng/kefan-zheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 ## Hey! Nice to meet you.👋
-I'm Zheng Kefan,a student from Shanghai,China.
+I'm Kefan Zheng,a student from Shanghai,China.
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=kefan-zheng)
 <img src="https://kefan-zheng.space/images/hello-languages.gif" width = "400" height = "300" align=right />
 - 🌱 I’m currently learning software engineering in SSE,Tongji University
