@@ -9,7 +9,7 @@ I'm Kefan Zheng,a student from Shanghai,China.
 - 📫 How to reach me: 1950072@tongji.edu.cn
 - 😄 Pronouns: he
 - ⚡ Hobbies: football⚽/billiard🎱/movies🎬/music🎧/calligraphy🖌
-- 🛠  C/C++/JavaScript/Python/SQL</br>
+- 🛠  C/C++/JavaScript/Python</br>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kefan-zheng&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
 --------------------------------------------------------------------
 ### Github stats
