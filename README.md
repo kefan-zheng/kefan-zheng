@@ -4,7 +4,7 @@
 ## Hey! Nice to meet you.👋
 I'm Kefan Zheng,a student from Shanghai,China.
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=kefan-zheng)
-<img src="https://kefan-zheng.space/images/hello-languages.gif" width = "400" height = "300" align=right />
+<img src="https://kefan-zheng.space/images/hello-languages.gif" width = "400" height = "400" align=right />
 - 🌱 I’m currently learning software engineering in SSE,Tongji University
 - 📫 How to reach me: 1950072@tongji.edu.cn
 - 😄 Pronouns: he
