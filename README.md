@@ -6,10 +6,10 @@ I'm Kefan Zheng,a student from Shanghai,China.
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=kefan-zheng)
 <img src="./img/hello-languages.gif" width = "400" height = "350" align=right />
 
-- 🌱 I’m currently learning software engineering in SSE,Tongji University
-- 📫 How to reach me: 1950072@tongji.edu.cn
-- 😄 Pronouns: he
-- ⚡ Hobbies: football⚽/billiard🎱/movies🎬/music🎧/calligraphy🖌
+- 🌱 Major in software engineering at Tongji University.
+- 📫 How to reach me: kfzheng@tongji.edu.cn
+- 😄 Volunteer of the 4th CIIE
+- ⚡ Hobbies: football⚽/billiard🎱/movies🎬/calligraphy🖌
 - 🛠  C/C++/JavaScript/Python</br>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kefan-zheng&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
 --------------------------------------------------------------------
