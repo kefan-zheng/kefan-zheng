@@ -10,7 +10,7 @@ I'm Kefan Zheng,a student from Shanghai,China.
 - 📫 How to reach me: kfzheng@tongji.edu.cn
 - 😄 Volunteer of the 4th CIIE
 - ⚡ Hobbies: football⚽/billiard🎱/movies🎬/calligraphy🖌
-- 🛠  C/C++/JavaScript/Python</br>
+- 🛠  C/C++/JavaScript/Python/Java</br>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kefan-zheng&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
 --------------------------------------------------------------------
 ### Github stats
