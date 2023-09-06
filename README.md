@@ -3,11 +3,10 @@
 -->
 ## Hey! Nice to meet you.👋
 My name is Zheng Kefan, a student from Shanghai, China.
-![visitors](https://visitor-badge.glitch.me/badge?page_id=kefan-zheng)
 <img src="./img/hello-languages.gif" width = "400" height = "350" align=right />
 
 - 🌱 Major in software engineering at Tongji University.
-- 📫 How to reach me: kfzheng@tongji.edu.cn
+- 📫 How to reach me: kfzheng0219@gmail.com
 - 😄 Volunteer of the 4th CIIE
 - ⚡ Hobbies: football⚽/billiard🎱/movies🎬/calligraphy🖌
 - 🛠  C/C++/JavaScript/Python/Java</br>
