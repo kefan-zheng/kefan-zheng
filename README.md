@@ -15,5 +15,3 @@ My name is Kefan Zheng, a student from Shanghai, China.
 --------------------------------------------------------------------
 ### Github stats
 ![Anurag's GitHub stats](https://github-readme-stats-kefan-zheng.vercel.app/api?username=kefan-zheng&show_icons=true&theme=buefy&hide=prs,issues)
-### OSCS
-[![Security Status](https://s.murphysec.com/badge/kefan-zheng/Lightweight-WebAR-Jewelry-Customization.svg)](https://www.murphysec.com/p/kefan-zheng/Lightweight-WebAR-Jewelry-Customization)
