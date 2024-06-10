@@ -2,7 +2,7 @@
 **kefan-zheng/kefan-zheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 ## Hey! Nice to meet you.👋
-My name is Kefan Zheng, a student from Shanghai, China.
+My name is Kefan Zheng, a data engineer in Alibaba Cloud.
 <img src="./img/hello-languages.gif" width = "400" height = "350" align=right />
 
 - 🌱 M.S. in Data Engineering @ UW-Madison CS
