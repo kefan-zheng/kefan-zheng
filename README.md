@@ -2,12 +2,12 @@
 **kefan-zheng/kefan-zheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 ## Hey! Nice to meet you.👋
-My name is Kefan Zheng, a data engineer in Alibaba Cloud.
+My name is Kefan Zheng, a data infrastructure enthusiast.
 <img src="./img/hello-languages.gif" width = "400" height = "350" align=right />
 
 - 🌱 M.S. in Data Engineering @ UW-Madison CS
 - 📫 B.Eng. in Software Engineering @ Tongji University
-- 🏛️ Ex-Intern @ SAP Innovation Center Network & STAR Program
+- 🏛️ Current intern @ Alibaba Cloud | Ex-Intern @ SAP Innovation Center Network & STAR Program
 - 😄 Volunteer of the 4th CIIE
 - ⚽️ Hobbies: football⚽/billiard🎱/movies🎬
 - 🛠 Python/C++/Java/C/JavaScript/</br>
