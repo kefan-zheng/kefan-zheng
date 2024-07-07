@@ -3,6 +3,6 @@
 -->
 ## Hey! Nice to meet you.👋
 My name is Kefan Zheng, and I am interested in big data infrastructure.
-<img src="./img/hello-languages.gif" width = "320" height = "280" align=right />
+<img src="./img/hello-languages.gif" alt="hello" width = "296" height = "259" align=right />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kefan-zheng&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kefan-zheng&layout=donut)
