@@ -1,7 +1,7 @@
 <!--
 **kefan-zheng/kefan-zheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-## Hi, I'm Kefan! 👋 <img src="./img/linkedin.svg" alt="Linkedin" width = "30" height = "30" align="right"/>
+## Hi, I'm Kefan! 👋 <img src="./img/linkedin.svg" alt="Linkedin" width="30" height="30" align="right"/>
 ### ⭐️ Bio  
 <img src="./img/hello-languages.gif" alt="hello" width = "344" height = "300" align = 'right'/>
 
