@@ -7,8 +7,7 @@
 ### ⭐️ Bio  
 
 ### ⭐️ Research Interests  
-+ Lakehouse: next generation of big data infrastructure
-+ Data Intelligence
-+ Edge Computing
++ Lakehouse
++ High-efficiency data storage
 ### ⭐️ Skills
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kefan-zheng&layout=compact)
