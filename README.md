@@ -5,9 +5,9 @@
 <img src="./img/hello-languages.gif" alt="hello" width="360" height="314" align="right"/>
 
 ### ⭐️ Bio  
-
++ Sad Pineapple
 ### ⭐️ Research Interests  
-+ Lakehouse
-+ High-efficiency data storage
++ Big Data Infrastructure
++ High-efficiency Data Computing
 ### ⭐️ Skills
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kefan-zheng&layout=compact)
