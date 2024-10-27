@@ -5,7 +5,7 @@
 <img src="./img/hello-languages.gif" alt="hello" width="360" height="314" align="right"/>
 
 ### ⭐️ Bio  
-+ Sad Pineapple
++ Try not to be a Sad Pineapple
 ### ⭐️ Research Interests  
 + Big Data Infrastructure
 + High-efficiency Data Computing
