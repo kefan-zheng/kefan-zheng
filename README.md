@@ -4,9 +4,7 @@
 ## Hi, I'm Kefan! 👋 
 <img src="./img/hello-languages.gif" alt="hello" width="360" height="314" align="right"/>
 
-### ⭐️ Bio  
-+ Try not to be a Sad Pineapple
-### ⭐️ Research Interests  
+### ⭐️ Interests  
 + Big Data Infrastructure
 + High-efficiency Data Computing
 ### ⭐️ Skills
